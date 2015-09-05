@@ -20,7 +20,7 @@
          <input type="submit" value="CALCULAR" style="font-family:Century Gothic;font-size: 30px">
            <br/>
          <br/>
-         <a href = "index.php.php" style ="text-decoration: none">MENU PRINCIPAL</a>
+         <a href = "index.php" style ="text-decoration: none">MENU PRINCIPAL</a>
        
       </form>  
     </body>

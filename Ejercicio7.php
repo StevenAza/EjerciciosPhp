@@ -38,7 +38,11 @@ echo  "EN METROS ES: $metros<br/> </br>";
 echo  "A PIES ES : $pies</br><br/>";
 echo  "A PULGADAS ES : $pulgadas</br><br/>";
 ECHO "</center>";
+echo "<a href = 'index.php' style ='text-decoration: none'>MENÚ PRINCIPAL</a>";
+
  }
+ 
+ 
 ?>
 
 

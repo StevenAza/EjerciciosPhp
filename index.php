@@ -25,7 +25,10 @@
         <a href ="Kilometros.php" style="text-decoration: none" >EJERCICIO No 6 </a>
         <br/>
          <br/>
-         <a href ="Ejercicio7.php." style="text-decoration:none" >EJERCICIO No 7 </a>        
+         <a href ="Ejercicio7.php." style="text-decoration:none" >EJERCICIO No 7 </a>  
+         <br/>
+         <br/>
+         <a href ="Ejercicio8.php." style="text-decoration:none" >EJERCICIO No 8 </a>  
             
     </center>
     </body>
